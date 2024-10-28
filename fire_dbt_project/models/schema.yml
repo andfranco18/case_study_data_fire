@@ -1,0 +1,6 @@
+
+version: 2
+
+models:
+  - name: silver_fire_incidents
+    description: "silver_representation_of_fire_incidents"

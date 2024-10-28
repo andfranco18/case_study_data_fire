@@ -1,0 +1,7 @@
+fire_dbt_project:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: data/db/fire_incidents.db
+      schema: main

@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: main
+    tables:
+      - name: bronze_fire_incidents
